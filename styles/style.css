@@ -1,0 +1,816 @@
+.body-1 {
+    Width: 1361px;
+    Height: 646px;
+    background-color: #161616;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+.body-1-write {
+    padding-top: 111px;
+    padding-left: 90px;
+    padding-bottom: 111px;
+    Width: 531px;
+    Height: 424px;
+    padding-right: 40px;
+    margin-right: 20px;
+    color: white;
+}
+
+.body-1-write h1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-right: 30px;
+    line-height: 70px;
+
+}
+
+.under-write-1 {
+    font-family: sans-serif;
+    line-height: 24px;
+    font-weight: 100;
+    padding-right: 90px;
+    text-align: justify;
+}
+
+
+
+.same2same {
+    margin: 0px;
+}
+
+.watch-live {
+    margin-top: 10px;
+    width: 150px;
+    Height: 40px;
+    background-color: #DD0000;
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+    padding-left: 20px;
+    border-radius: 5px;
+    margin: 0px;
+    line-height: 0px;
+    font-weight: 100;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 10px;
+
+
+}
+
+
+
+.arrow {
+    margin-left: 0px;
+    padding-left: 25px;
+    padding-top: 9px;
+    width: ;
+}
+
+
+
+.brazil img {
+    margin-top: 33px;
+    width: 581px;
+    height: 613px;
+    margin-left: 20px;
+}
+
+/* section----------- */
+
+.Upcoming-Match {
+    width: 252px;
+    height: 64px;
+    background-color: white;
+    border: 2px;
+    border-radius: 2px solid rgb(131, 128, 128);
+
+}
+
+.All-Group {
+    width: 252px;
+    height: 64px;
+    background-color: white;
+    border: 2px;
+    border-radius: 1px solid rgb(131, 128, 128);
+}
+
+.Blog {
+    width: 252px;
+    height: 64px;
+    background-color: red;
+}
+
+.body-2-write {
+    width: 312px;
+    height: 330px;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 130px;
+    margin-left: 140px;
+}
+
+.body-2-design {
+    margin-left: 25px;
+    padding-top: 30px;
+
+}
+
+.Upcoming-Match {
+    width: 250px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.Upcoming-Match p {
+    margin-top: 0px;
+    padding-left: 20px;
+    width: 230px;
+    padding-top: 11px;
+    font-size: 140%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.All-Group {
+    width: 252px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    border: 2px solid white;
+    border-radius: 10px;
+
+}
+
+.All-Group p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 150%;
+    padding-left: 50px;
+    padding-bottom: 40px;
+}
+
+.Blog {
+    width: 252px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.Blog p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 160%;
+    margin-top: 10px;
+    color: white;
+    padding-left: 80px;
+}
+
+.transfer {
+    width: 100px;
+    height: 32px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px 0px 0px 28px;
+    margin-top: 20px;
+
+
+
+}
+
+.players {
+    width: 312px;
+    height: 362px;
+}
+
+.transfer-live {
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.icon {
+    margin-left: 20px;
+    color: rgba(22, 22, 22, 0.7);
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.body-23-grid {
+    display: grid;
+    grid-template-columns: 312px 1008px;
+
+}
+
+#body-id {
+    margin-left: 160px;
+}
+
+.body-2 {
+    display: grid;
+    grid-template-columns: 448px 810px;
+}
+
+.body-3 {
+    margin-top: 130px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 24px;
+    column-gap: 24px;
+    margin-left: 10px;
+}
+
+.body-4 {
+    margin-top: 130px;
+    width: 1600px;
+    height: 440px;
+    background-color: black;
+    padding-top: 130px;
+}
+
+.goal {
+    width: 95px;
+    height: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    inline-size: 60px;
+    text-align: center;
+    color: white;
+
+    padding-left: 45%;
+
+
+}
+
+.body-4 hr {
+    width: 1320px;
+    margin-top: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.paragraph {
+    width: 898px;
+    height: 24px;
+    color: #B9B9B9;
+    font-family: 'Poppins', sans-serif;
+
+    font-size: 16px;
+    font-weight: 500;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin-left: 350px;
+}
+
+#terms {
+    width: 170px;
+}
+
+#terms-2 {
+    width: 170px;
+}
+
+#terms-3 {
+    width: 190px;
+    margin-left: 0px;
+}
+
+/* extra */
+#Contrary {
+    display: none;
+}
+
+.view-all {
+    display: none;
+}
+
+
+
+
+
+
+/*------------------------------------ tab view----------------------  */
+@media only screen and (min-width:376px) and (max-width: 834px) {
+    .body-1 {
+        Width: 734px;
+        Height: 398px;
+        background-color: #161616;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 50px;
+        border-radius: 30px;
+    }
+
+    .body-1-write {
+        padding-top: 61px;
+        padding-left: 76px;
+        padding-bottom: 61px;
+        Width: 316px;
+        Height: 276px;
+        margin-right: 2px;
+        padding-right: 0px;
+        color: white;
+    }
+
+    .body-1-write h1 {
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        padding-right: 30px;
+        line-height: 50px;
+
+    }
+
+    .under-write-1 {
+        font-family: sans-serif;
+        line-height: 24px;
+        font-weight: 400;
+        padding-right: 90px;
+        text-align: justify;
+        color: white;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    .same2same {
+        display: none;
+    }
+
+    #Contrary {
+        display: inline;
+    }
+
+    .watch-live {
+        margin-top: 10px;
+        width: 161px;
+        height: 30px;
+        background-color: #DD0000;
+        padding-top: 16px;
+        padding-bottom: 16px;
+
+        padding-left: 20px;
+        border-radius: 5px;
+        margin: 0px;
+        line-height: 0px;
+        font-weight: 100;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-row-gap: 10px;
+
+
+    }
+
+
+
+    .arrow {
+        margin-left: 0px;
+        padding-left: 12px;
+        padding-top: 9px;
+        width: ;
+    }
+
+    .brazil img {
+        margin-top: 58px;
+        width: 323px;
+        height: 340px;
+    }
+
+
+
+    /* 2nd section ------------------ */
+
+
+
+    .body-2 {
+        display: inline;
+    }
+
+    .body-2-design {
+        display: flex;
+        padding-top: 0px;
+        margin-left: 0px;
+    }
+
+    .body-2-write {
+        margin-left: 50px;
+        background-color: #FFFFFF;
+        height: 94px;
+        margin-top: 70px;
+    }
+
+    .Upcoming-Match {
+        padding-top: 12px;
+        padding-left: 15px;
+        width: 220px;
+        height: 64px;
+        border: 1px solid #B9B9B9;
+        border-radius: 10px;
+        margin-left: 8px;
+    }
+
+    .Upcoming-Match P {
+        margin-top: 0px;
+        padding-left: 4px;
+        width: 230px;
+        padding-top: 11px;
+        font-size: 140%;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .All-Group {
+        margin-left: 22px;
+        border-radius: 10px;
+        border: 1px solid #B9B9B9;
+        padding-bottom: 12px;
+        width: 220px;
+        padding-left: 0px;
+        margin-right: 8px;
+    }
+
+    .All-Group p {
+        width: 220px;
+        padding-left: 40px;
+    }
+
+    .Blog {
+        margin-left: 10px;
+        width: 200px;
+        background: #DD0000;
+        padding-bottom: 10px;
+    }
+
+    .Blog p {
+        padding-top: 8px;
+        width: 200px;
+        padding-left: 60px;
+    }
+
+    .body-3 {
+        margin-top: 30px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 20px;
+        column-gap: 19.79px;
+        margin-right: 50px;
+        margin-left: 50px;
+
+    }
+
+    .body-23-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    #body-id {
+        margin-left: 0px;
+    }
+
+    .players {
+        Width: 357px;
+        Height: 414.21px;
+    }
+
+    .player {
+        width: 357px;
+    }
+
+    .player img {
+        width: 357px;
+    }
+
+    .view-all {
+        width: 131px;
+        height: 47px;
+        border-radius: 5px;
+        background-color: #DD0000;
+        margin-left: 330px;
+        margin-top: 50px;
+    }
+
+    .view-all-p {
+        width: 73px;
+        height: 23px;
+        font-family: 'HelveticaNeue';
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        text-align: center;
+        color: #FFFFFF;
+        padding-top: 12px;
+        padding-left: 28px;
+    }
+
+
+
+
+    .body-4 {
+        margin-top: 69px;
+        width: 834px;
+        height: 345px;
+        background-color: black;
+        padding-top: 70px;
+    }
+
+    .body-4 hr {
+        width: 1320px;
+        margin-top: 30px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .paragraph {
+        width: 635px;
+        height: 100px;
+        color: #B9B9B9;
+        font-family: 'Poppins', sans-serif;
+
+        color: #B9B9B9;
+        font-size: 16px;
+        font-weight: 500;
+        margin-right: 103px;
+        margin-left: 96px;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        text-align: center;
+
+
+
+    }
+
+    .view-all {
+        display: block;
+        cursor: pointer;
+    }
+
+    #terms-4 {}
+
+    #terms-5 {}
+
+    .terms6 {}
+
+
+
+
+    /* extra */
+    #none-6 {
+        display: none;
+    }
+}
+
+
+/*-------------- mobile view ---------- */
+@media only screen and (max-width: 375px) {
+    .body-1 {
+        Width: 334px;
+        Height: 470px;
+        background-color: #161616;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 44px;
+        display: inline-block;
+        grid-template-columns: 50% 50%;
+    }
+
+    .body-1-write {
+        Width: 258px;
+        Height: 178px;
+        color: white;
+        padding-left: 53px;
+        padding-top: 28px;
+        padding-bottom: 19px;
+
+    }
+
+    .body-1-write h1 {
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-size: 22px;
+        margin-bottom: 8px;
+        line-height: 33px;
+        text-align: center;
+
+    }
+
+    .same2same {
+        display: none;
+    }
+
+    #Contrary {
+        display: inline;
+        text-align: center;
+        size: 14px;
+        line-height: 24px;
+    }
+
+    .watch-live {
+        margin-top: 10px;
+        width: 150px;
+        height: 30px;
+        background-color: #DD0000;
+        padding: 8px 12px;
+        border-radius: 5px;
+        margin: 0px;
+        margin-left: 25px;
+        line-height: 0px;
+        font-weight: 100;
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-row-gap: 10px;
+        justify-items: center;
+
+
+    }
+
+    .arrow {
+        margin-left: 0px;
+        padding-left: 20px;
+        padding-top: 9px;
+        width: 25px;
+    }
+
+    .brazil img {
+        margin-left: 63px;
+        width: 233px;
+        height: 245px;
+        margin-top: 0px;
+    }
+
+    .body-2-write {
+        margin-left: 50px;
+        margin-top: 24px;
+        background-color: #FFFFFF;
+        height: 94px;
+    }
+
+    .body-2-design {
+        padding-top: 0px;
+    }
+
+    .Upcoming-Match {
+        border: 2px solid #B9B9B9;
+        width: 210px;
+        height: 48px;
+
+    }
+
+    .Upcoming-Match p {
+        font-size: 120%;
+        padding-left: 13px;
+    }
+
+    .All-Group {
+        width: 160px;
+        height: 48px;
+        margin-left: 25px;
+        border: 2px solid #B9B9B9;
+
+    }
+
+    .All-Group p {
+        padding-left: 20px;
+        margin-top: 0px;
+        font-size: 120%;
+        padding-top: 12px;
+        padding-bottom: 30px;
+    }
+
+    .Blog {
+        width: 160px;
+        height: 48px;
+        margin-left: 25px;
+    }
+
+    .Blog p {
+        padding-left: 45px;
+        margin-top: 4px;
+    }
+
+    .body-3 {
+        margin-top: 24px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+
+    .container {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .body-23-grid {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+
+    #body-id {
+        margin-left: 20px;
+    }
+
+    .body-3 {
+        margin-left: 0px;
+        margin-top: 150px;
+    }
+
+    .players {
+        width: 335px;
+        height: 388px;
+        border: 1px solid #B9B9B9;
+        border-radius: 10px;
+    }
+
+    .players img {
+        width: 335px;
+    }
+
+    .transfer {
+        line-height: 26px;
+        height: 20px;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17.1795px;
+        border-radius: 10px;
+        border: 2px solid #797777;
+        margin-left: 21px;
+        padding: 5px 20px 10px 5px;
+    }
+
+    .transfer-live {
+        margin-left: 21px;
+        line-height: 28px;
+        color: #161616;
+        font-weight: 600;
+        text-align: justify;
+
+
+    }
+
+    .view-all {
+        display: none;
+    }
+
+    .body-4 {
+        width: 375px;
+        height: 412px;
+        background-color: #161616;
+        padding-top: 24px;
+        margin-top: 24px;
+    }
+
+    .goal {
+        padding-left: 140px;
+        font-size: 22px;
+    }
+
+    .body-4 hr {
+        margin-top: 24px;
+    }
+
+    .paragraph {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+        justify-items: start;
+        margin-left: 50px;
+        width: 375px;
+    }
+
+    #terms-0 {
+        padding-left: 80px;
+    }
+
+    #terms {
+        padding-left: 40px;
+
+    }
+
+    #terms-2 {
+        padding-left: 38px;
+    }
+
+    #terms-3 {
+        padding-left: 34px;
+        margin-left: 0px;
+    }
+
+    #terms-4 {
+        padding-left: 90px;
+    }
+
+    #terms-5 {
+        padding-left: 90px;
+    }
+}
